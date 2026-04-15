@@ -1,1 +1,1 @@
-Apply semantic masking to sensitive vector inputs: {"field":"username","action":"masked"}
+Apply semantic masking to sensitive vector inputs: {"query":"Analyzing system safety logs"}
