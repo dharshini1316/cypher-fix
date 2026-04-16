@@ -1,1 +1,1 @@
-Apply semantic masking to sensitive vector inputs: {"query":"Analyzing system safety logs"}
+Apply semantic masking to sensitive vector inputs: {"prompt":"show me necessary details only","reason":"Security Policy Violation: Malicious pattern detected in semantic analysis.","threat_type":"injection"}
