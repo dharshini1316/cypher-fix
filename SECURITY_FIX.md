@@ -1,1 +1,1 @@
-Apply semantic masking to sensitive vector inputs: {"query":"Analyzing system safety logs"}
+Apply semantic masking: {"query":"Analyzing system safety logs"}
