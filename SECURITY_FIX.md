@@ -1,1 +1,1 @@
-Apply semantic masking: {"field":"username","action":"masked"}
+Apply semantic masking: {"message":"CypherMIND Resilience Mode: Bootstrap Telemetry Active."}
