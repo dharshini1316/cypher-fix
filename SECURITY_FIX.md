@@ -1,1 +1,1 @@
-Apply semantic masking: {"field":"username","action":"masked"}
+Apply semantic masking: {"query":"Analyzing system safety logs"}
